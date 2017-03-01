@@ -1,0 +1,11 @@
+{
+    "name": "indianic/timezones",
+    "description": "Show time package",
+    "authors": [
+        {
+            "name": "Rahul jain",
+            "email": "rahul.jain@indianic.com"
+        }
+    ],
+    "require": {},
+}
